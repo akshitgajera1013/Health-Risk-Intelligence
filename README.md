@@ -2,6 +2,8 @@
 AI-Based Lifestyle Disease Risk Assessment System  
 Built using Tuned Decision Tree (RandomizedSearchCV)
 
+Deployment Link :- https://health-risk-intelligence-model.streamlit.app/
+
 ## 🚀 Project Overview
 This project predicts potential health disease risk based on lifestyle, physiological, and behavioral factors using a hyperparameter-optimized Decision Tree Classifier.
 
