@@ -69,7 +69,7 @@ It provides:
 git clone https://github.com/akshitgajera1013/Health-Risk-Intelligence.git
 
 
-cd Health-Risk-Intelligence
+cd app.py
 
 
 pip install -r requirements.txt
