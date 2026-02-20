@@ -67,6 +67,12 @@ It provides:
 
 ## ▶️ How To Run Locally
 git clone https://github.com/akshitgajera1013/Health-Risk-Intelligence.git
-cd Health-Risk-Intelligence-Decision-Tree
+
+
+cd Health-Risk-Intelligence
+
+
 pip install -r requirements.txt
+
+
 streamlit run app.py
