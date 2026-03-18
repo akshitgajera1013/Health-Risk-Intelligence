@@ -8,6 +8,9 @@ Deployment Link :- https://health-risk-intelligence-model.streamlit.app/
 #Project Images
 
 ![image 1](images/1.png)
+![image 2](images/2.png)
+![image 3](images/3.png)
+![image 4](images/4.png)
 
 
 📁 Dataset Overview
