@@ -4,6 +4,63 @@ Built using Tuned Decision Tree (RandomizedSearchCV)
 
 Deployment Link :- https://health-risk-intelligence-model.streamlit.app/
 
+📁 Dataset Overview
+
+This project uses a Health & Lifestyle Dataset that contains information about individuals' daily habits, physical health, and lifestyle patterns. The dataset is designed to analyze how different lifestyle factors influence overall health and well-being.
+
+It includes a combination of demographic details, health indicators, and behavioral attributes, making it suitable for both data analysis and machine learning applications.
+
+📊 Dataset Summary
+| Property      | Value                   |
+| ------------- | ----------------------- |
+| Dataset Type  | Health & Lifestyle Data |
+| Data Type     | Structured (Tabular)    |
+| Feature Types | Numerical + Categorical |
+| Use Case      | Analysis & Prediction   |
+
+
+🔑 Key Features
+
+The dataset includes important attributes such as:
+
+Age
+
+Gender
+
+Height & Weight
+
+BMI (Body Mass Index)
+
+Daily Physical Activity
+
+Exercise Frequency
+
+Sleep Duration
+
+Diet Type
+
+Water Intake
+
+Smoking & Alcohol Habits
+
+Stress Levels
+
+Health Condition Indicators
+
+These features help in understanding the relationship between lifestyle choices and health outcomes.
+
+🎯 Objective of the Dataset
+
+The dataset is designed to:
+
+Analyze the impact of lifestyle habits on health
+
+Identify patterns affecting physical fitness and well-being
+
+Support predictive modeling for health risk assessment
+
+Enable data-driven health insights
+
 ## 🚀 Project Overview
 This project predicts potential health disease risk based on lifestyle, physiological, and behavioral factors using a hyperparameter-optimized Decision Tree Classifier.
 
