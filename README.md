@@ -4,6 +4,12 @@ Built using Tuned Decision Tree (RandomizedSearchCV)
 
 Deployment Link :- https://health-risk-intelligence-model.streamlit.app/
 
+
+#Project Images
+
+![image 1](images/1.png)
+
+
 📁 Dataset Overview
 
 This project uses a Health & Lifestyle Dataset that contains information about individuals' daily habits, physical health, and lifestyle patterns. The dataset is designed to analyze how different lifestyle factors influence overall health and well-being.
